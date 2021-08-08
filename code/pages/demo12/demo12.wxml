@@ -1,0 +1,9 @@
+<!--
+  富文本标签rich-text
+  1 nodes属性实现
+    接收标签字符串
+    接收对象数组
+-->
+
+<rich-text nodes="{{html}}"></rich-text>
+<rich-text nodes="{{a}}"></rich-text>
